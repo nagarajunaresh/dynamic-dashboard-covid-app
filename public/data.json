@@ -1,0 +1,144 @@
+{
+  "Countries": [
+    {
+      "Country": "United States",
+      "TotalConfirmed": 123456,
+      "TotalDeaths": 1234,
+      "TotalRecovered": 100000,
+      "Date": "2024-06-21T00:00:00Z"
+    },
+    {
+      "Country": "Brazil",
+      "TotalConfirmed": 234567,
+      "TotalDeaths": 2345,
+      "TotalRecovered": 200000,
+      "Date": "2024-06-21T00:00:00Z"
+    },
+    {
+      "Country": "India",
+      "TotalConfirmed": 345678,
+      "TotalDeaths": 3456,
+      "TotalRecovered": 300000,
+      "Date": "2024-06-21T00:00:00Z"
+    },
+    {
+      "Country": "Russia",
+      "TotalConfirmed": 456789,
+      "TotalDeaths": 4567,
+      "TotalRecovered": 400000,
+      "Date": "2024-06-21T00:00:00Z"
+    },
+    {
+      "Country": "France",
+      "TotalConfirmed": 567890,
+      "TotalDeaths": 5678,
+      "TotalRecovered": 500000,
+      "Date": "2024-06-21T00:00:00Z"
+    },
+    {
+      "Country": "Germany",
+      "TotalConfirmed": 678901,
+      "TotalDeaths": 6789,
+      "TotalRecovered": 600000,
+      "Date": "2024-06-21T00:00:00Z"
+    },
+    {
+      "Country": "United Kingdom",
+      "TotalConfirmed": 789012,
+      "TotalDeaths": 7890,
+      "TotalRecovered": 700000,
+      "Date": "2024-06-21T00:00:00Z"
+    },
+    {
+      "Country": "Italy",
+      "TotalConfirmed": 890123,
+      "TotalDeaths": 8901,
+      "TotalRecovered": 800000,
+      "Date": "2024-06-21T00:00:00Z"
+    },
+    {
+      "Country": "Argentina",
+      "TotalConfirmed": 901234,
+      "TotalDeaths": 9012,
+      "TotalRecovered": 900000,
+      "Date": "2024-06-21T00:00:00Z"
+    },
+    {
+      "Country": "Mexico",
+      "TotalConfirmed": 1012345,
+      "TotalDeaths": 10123,
+      "TotalRecovered": 1000000,
+      "Date": "2024-06-21T00:00:00Z"
+    },
+    {
+      "Country": "Canada",
+      "TotalConfirmed": 1123456,
+      "TotalDeaths": 11234,
+      "TotalRecovered": 1100000,
+      "Date": "2024-06-21T00:00:00Z"
+    },
+    {
+      "Country": "Spain",
+      "TotalConfirmed": 1234567,
+      "TotalDeaths": 12345,
+      "TotalRecovered": 1200000,
+      "Date": "2024-06-21T00:00:00Z"
+    },
+    {
+      "Country": "South Africa",
+      "TotalConfirmed": 1345678,
+      "TotalDeaths": 13456,
+      "TotalRecovered": 1300000,
+      "Date": "2024-06-21T00:00:00Z"
+    },
+    {
+      "Country": "Australia",
+      "TotalConfirmed": 1456789,
+      "TotalDeaths": 14567,
+      "TotalRecovered": 1400000,
+      "Date": "2024-06-21T00:00:00Z"
+    },
+    {
+      "Country": "Japan",
+      "TotalConfirmed": 1567890,
+      "TotalDeaths": 15678,
+      "TotalRecovered": 1500000,
+      "Date": "2024-06-21T00:00:00Z"
+    },
+    {
+      "Country": "China",
+      "TotalConfirmed": 1678901,
+      "TotalDeaths": 16789,
+      "TotalRecovered": 1600000,
+      "Date": "2024-06-21T00:00:00Z"
+    },
+    {
+      "Country": "Saudi Arabia",
+      "TotalConfirmed": 1789012,
+      "TotalDeaths": 17890,
+      "TotalRecovered": 1700000,
+      "Date": "2024-06-21T00:00:00Z"
+    },
+    {
+      "Country": "Netherlands",
+      "TotalConfirmed": 1890123,
+      "TotalDeaths": 18901,
+      "TotalRecovered": 1800000,
+      "Date": "2024-06-21T00:00:00Z"
+    },
+    {
+      "Country": "Turkey",
+      "TotalConfirmed": 1901234,
+      "TotalDeaths": 19012,
+      "TotalRecovered": 1900000,
+      "Date": "2024-06-21T00:00:00Z"
+    },
+    {
+      "Country": "Sweden",
+      "TotalConfirmed": 2012345,
+      "TotalDeaths": 20123,
+      "TotalRecovered": 2000000,
+      "Date": "2024-06-21T00:00:00Z"
+    }
+  ]
+}
