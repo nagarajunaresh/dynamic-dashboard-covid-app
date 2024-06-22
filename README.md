@@ -12,6 +12,7 @@ The COVID-19 Dashboard aims to provide users with an intuitive interface to expl
 
 - A header section with a title and brief description.
 - Two types of data visualizations: a line chart and a data table.
+- used dummy data to display data
 - Interactive elements such as a filter input to search for specific countries.
 - Responsive design to ensure compatibility across devices.
 - Advanced styling using `styled-components`.
